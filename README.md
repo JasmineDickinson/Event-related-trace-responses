@@ -1,2 +1,2 @@
 # Event-related-trace-responses
-This provides basic visualization and analysis for pre and post event related responses
+This provides basic visualization and analysis for pre and post event related responses, specifically with analysis for fiber photometry calcium traces in mind. This script generates fake "data" (a "df/f" signal) and event times (like a stimulus time point) for you to work with. With this code you can generate a heat-map raster plot of pre and post event times to easily visualize stimulus responses, calculate the significance of each time point relative to a baseline vector, and graph your df/f traces as a mean with overlaid individual traces, SEM, and significant time points. 
